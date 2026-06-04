@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Moogi Bharath 👋
 
-<!--
-**BharathMoogi/BharathMoogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst & Full-Stack Developer
 
-Here are some ideas to get you started:
+🎓 ECE + CSE Minor @ GITAM Deemed University, Bengaluru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I'm a developer and data enthusiast who enjoys turning data into insights and building real-world applications.
+
+### Tech Stack
+
+#### Data & Analytics
+- SQL
+- Power BI
+- MS Excel
+- Data Visualization
+
+#### Full-Stack Development
+- TypeScript
+- Firebase
+- HTML/CSS
+- Web App Development
+
+#### Cloud & Infrastructure
+- AWS CDK
+- Cloud Computing
+- Infrastructure as Code (IaC)
+
+### Projects
+
+#### 📚 Notes Hub
+Student notes platform where users can upload, discover, and rate academic notes.
+
+#### ☁️ PRAJNA
+Cloud infrastructure project built using AWS CDK, TypeScript, S3, Lambda, and RDS.
+
+### Connect With Me
+- LinkedIn: Add your LinkedIn URL here
+- Portfolio: Add your portfolio URL here
+
+📍 Bengaluru, India | Open to Remote Opportunities
