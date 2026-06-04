@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Full-Stack+Developer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BharathMoogi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ## Data Analyst & Full-Stack Developer
 
 🎓 ECE + CSE Minor @ GITAM Deemed University, Bengaluru
