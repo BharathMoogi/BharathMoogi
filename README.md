@@ -9,14 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BharathMoogi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
-<h1 align="center">Hi 👋, I'm Moogi Bharath</h1>
-
-<h3 align="center">Data Analyst | Full-Stack Developer | AWS Cloud Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BharathMoogi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
