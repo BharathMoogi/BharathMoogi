@@ -35,7 +35,7 @@ Student notes platform where users can upload, discover, and rate academic notes
 Cloud infrastructure project built using AWS CDK, TypeScript, S3, Lambda, and RDS.
 
 ### Connect With Me
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/moogi-bharath-547232314/
 - Portfolio: Add your portfolio URL here
 
 📍 Bengaluru, India | Open to Remote Opportunities
