@@ -1,4 +1,10 @@
-# Hi, I'm Moogi Bharath 👋
+<h1 align="center">
+  Hi 👋, I'm Moogi Bharath
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Full-Stack+Developer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
+</p>
 
 ## Data Analyst & Full-Stack Developer
 
