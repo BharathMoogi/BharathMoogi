@@ -3,6 +3,17 @@
 <h3 align="center">Data Analyst | Full-Stack Developer | AWS Cloud Enthusiast</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Full-Stack+Developer;AWS+Cloud+Enthusiast;Building+Projects+with+Data+and+Cloud" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BharathMoogi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+<h1 align="center">Hi 👋, I'm Moogi Bharath</h1>
+
+<h3 align="center">Data Analyst | Full-Stack Developer | AWS Cloud Enthusiast</h3>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=BharathMoogi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
